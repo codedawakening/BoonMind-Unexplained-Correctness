@@ -1,19 +1,14 @@
-## Licensing
+Copyright © 2025 Carl Boon
 
-The material published here constitutes a **research abstract, not open-source software**.
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+You are free to:
+- Share — copy and redistribute the material in any medium or format.
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
 
-All rights reserved by the author, except for citation and academic discussion.  
-No permission is granted for reproduction of algorithms, derivative implementations, or commercial usage without explicit authorization.
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
----
-
-## Contact
-
-For collaboration, review access, or institutional inquiry:
-
-📩 Refer to GitHub profile contact  
-📌 Or open a repository issue marked “RHC Access Request”
-
----
-
-*This document establishes priority, invites collaboration, and communicates research intent without disclosing protected intellectual implementations.*
+Full license: https://creativecommons.org/licenses/by/4.0/
+Then update your README to say:
+Licensed under CC BY 4.0 — see LICENSE for details.
